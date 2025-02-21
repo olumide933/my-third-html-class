@@ -1,0 +1,80 @@
+.olu{font-size:40px;
+color:white;
+background-color:red;
+font-weight:bold;
+}
+.olutwo{font-size:40px;
+color:white;
+background-color:orange;
+font-weight:bold;
+}
+div{margin:0;
+height:200px
+}
+
+.oluthree{font-size:40px;
+color:black;
+background-color:yellow;
+font-family:poppins
+
+}
+.olufour{font-size:40px;
+color:white;
+background-color:green;
+font-weight:bold;
+}
+.olufive{font-size:40px;
+color:white;
+background-color:blue;
+font-weight:bold;
+}
+.olusix{font-size:40px;
+color:black;
+background-color:indigo;
+font-weight:bold;
+}
+.oluseven{font-size:40px;
+color:white;
+background-color:violet;
+font-weight:bold;
+}
+
+button{height:50px;
+width:200px;
+margin:50px;
+font-size:30px
+}
+
+button:hover{
+backgroung-color: blue;
+color: red;
+cursor: pointer
+}
+
+nav{
+padding: 30px;
+}
+a{
+margin-right: 20px
+}
+h1{
+margin:30px
+}
+h1::before{
+content:"Welcome"
+}
+h1::after{
+content:"Nice to have you here"
+}
+h2::after{
+content:" Nice to have you here"
+}
+input{height:40px;
+width:200px;
+font-size:20px 
+
+}
+input:focus{
+background-color: pink;
+outline:10px solid blue
+}
